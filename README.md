@@ -1,4 +1,2 @@
-# github desktop (title)
+# Lositech Renewal
 
-git hub deskdop
-수정 완료!
